@@ -23,8 +23,8 @@ A desktop application that lets you visualize mathematical functions and listen 
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone <your-repository-url>
-   cd function_sonifier
+   git clone <https://github.com/ExTc-aShiSh/Function_Sonifier.git>
+   cd Function_Sonifier
    ```
 
 2. **Install dependencies**:
@@ -40,7 +40,11 @@ python main.py
 ```
 
 ## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
+Contributions are welcome! Feel free to open issues or submit pull requests. This is an open source project. Atleast tell me the bugs that you found . 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<p align="center">
+  Made with ❤️by <strong>Ashish</strong>
+</p>
